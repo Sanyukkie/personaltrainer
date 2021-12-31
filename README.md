@@ -1,1 +1,1 @@
-Imaginary personal trainer plan made by React as a School Project
+Imaginary personal trainer website made with React as a School Project
